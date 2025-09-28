@@ -1,0 +1,1 @@
+# bare-ffmpeg-mcp
